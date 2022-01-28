@@ -19,3 +19,21 @@
 * 2 x 22 pF ceramic capacitor, 100V
 * 1 x 0.1 microF ceramic capacitor, 50V
 * 1 x 0.33 microF ceramic capacitor, 50V
+
+### WaveFormIO Parts List
+
+* Motorola/Freescale MC14489B
+* Lite-On LTC-4727JR 4-Digit Display
+* ATmega 328P-PU
+* 7805
+* PTV09A-2020F-A502 Bourns 5k Poteniometer
+* PTV09A-2020F-A103 Bourns 10k Poteniometer
+* Push Button - Momentary On - Schurter 1301.9305
+* E-Switch EG2301A (6mm-tall switch arm)
+* 108-0903-001 (Black)
+* 108-0902-001 (Red)
+* Op-Amp for voltage follower
+* TE Connectivity 1-971111-3 Flat Cable 10C 28AWG
+* 3365/10-CUT-LENGTH 3M
+* OMRON XG4M-1030-T Cable Crip Connector Female
+* OMRON XG4C-1031 PCB Socket Male 
